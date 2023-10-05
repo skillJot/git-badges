@@ -1,0 +1,19 @@
+# Schema Version. DO NOT MODIFY.
+version: 2023-09
+# Project Metadata
+project:
+  name: git-badges
+  description: |
+    git-badges is a fantastic project that aims to revolutionise digital badges
+    
+  # Other relevant project information can be added here
+  website: https://github.com/skilljot/git-badges
+  license: CC BY 4.0
+  keywords: [Open Source, Badges, Git]
+
+# Contributors
+contributors:
+  - githubHandler: alenhorvat
+    role: Project Manager
+    startDate: 2023-10-05
+    skills: [Project Design]
